@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.6.1 (2025-06-17)
+
+Full Changelog: [v5.6.0...v5.6.1](https://github.com/cloudflare/terraform-provider-cloudflare/compare/v5.6.0...v5.6.1)
+
 ## 5.6.0 (2025-06-17)
 
 Full Changelog: [v5.5.0...v5.6.0](https://github.com/cloudflare/terraform-provider-cloudflare/compare/v5.5.0...v5.6.0)
